@@ -1,0 +1,40 @@
+.event-details {
+    padding: 20px;
+    margin: auto
+  }
+
+  .event-details h2{
+    text-align: center;
+  }
+  .event-details p{
+    margin: auto;
+    width: 50%;
+}
+  
+  .registration-form {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: 0px auto;
+  }
+  
+  .input-field {
+    margin-bottom: 10px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .register-button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .register-button:hover {
+    background-color: #0056b3;
+  }
+  
